@@ -1,0 +1,3 @@
+---- extern T_DRV_CALLBACK_FUNC gb_drv_cb_fun Matches (2 in 2 files) ----
+Drv_in_callback.h (e:\project\bomei\platform_xuhy\platform\firmware\drivers\include\internal_inc):extern T_DRV_CALLBACK_FUNC gb_drv_cb_fun;
+S_camera_capture.c (e:\project\bomei\platform_xuhy\platform\firmware\applications\camera):extern T_DRV_CALLBACK_FUNC gb_drv_cb_fun;

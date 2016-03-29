@@ -1,0 +1,55 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-28 22:08:33
+
+ss g_udisk_burnnum: 0
+[22:08:33]work number = 1
+[22:08:33]burn_mode = 1, eMedium = 1
+[22:08:33]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:08:39]burn_spiflash fail.
+[22:08:39]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-28 22:08:53
+
+ss g_udisk_burnnum: 0
+[22:08:53]work number = 1
+[22:08:53]burn_mode = 1, eMedium = 1
+[22:08:53]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:09:16]end work number = 0
+[22:09:16]++Burn success++
+[22:09:16]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-28 22:54:32
+
+ss g_udisk_burnnum: 0
+[22:54:32]work number = 1
+[22:54:32]burn_mode = 1, eMedium = 1
+[22:54:32]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:54:55]end work number = 0
+[22:54:55]++Burn success++
+[22:54:55]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-28 22:58:02
+
+ss g_udisk_burnnum: 0
+[22:58:02]work number = 1
+[22:58:02]burn_mode = 1, eMedium = 1
+[22:58:02]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:58:25]end work number = 0
+[22:58:25]++Burn success++
+[22:58:25]close file
+
+
+

@@ -1,0 +1,1015 @@
+*********************************************************************************
+Date: 2016-3-28 [22:07:35]Open burntool.exe
+--------------------------------------------------
+[22:07:37]Clear history logfiles:
+[22:07:37]End!
+--------------------------------------------------
+[22:07:52]close file
+
+
+
+*********************************************************************************
+Date: 2016-3-28 [22:08:26]Open burntool.exe
+--------------------------------------------------
+[22:08:26]Clear history logfiles:
+[22:08:26]End!
+--------------------------------------------------
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!terminate
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+[22:09:38]close file
+
+
+
+*********************************************************************************
+Date: 2016-3-28 [22:53:12]Open burntool.exe
+--------------------------------------------------
+[22:53:13]Clear history logfiles:
+[22:53:13]End!
+--------------------------------------------------
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+WindowProc-->wParam: 7
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+*********************************************************************************
+Date: 2016-3-29 [21:11:42]Open burntool.exe
+--------------------------------------------------
+[21:11:42]Clear history logfiles:
+[21:11:42]End!
+--------------------------------------------------
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!terminate
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+WindowProc-->wParam: 7
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:1, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = G
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 1, attach_flag:0, auto_check:0
+m_budisk_burn:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+BT_Start 
+BT_Start_g_workTotalnum :1 
+!!sucesss
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+!!udisk
+BT_DetachUSB i = 6 diskName = G index = 1
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 1
+BT_AttachUSB diskName = H
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8000
+hDev_Broadcast_HDR->dbch_devicetype: 2
+DBT_DEVTYP_VOLUME
+udisk_cnt i = 2
+BT_AttachUSB diskName = G
+BT_AttachUSB diskName = H
+ScanUDisk i = 7 m_udisk_state 2
+BT_AttachUSB vol = 6 diskName = G m_udisk_state 0
+BT_AttachUSB2 0, attach_flag:0, auto_check:0
+BT_AttachUSB vol = 7 diskName = H m_udisk_state 2
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+DBT_DEVTYP_VOLUME!2
+udisk_cnt i = 0
+ScanUDisk i = 6 m_udisk_state 2
+ScanUDisk i = 7 m_udisk_state 2
+BT_DetachUSB i = 6 diskName = G index = 0
+BT_DetachUSB i = 7 diskName = H index = 0
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 7
+WindowProc-->wParam: 8004
+YYYYYYYYYYYYYYYY

@@ -1,0 +1,6 @@
+
+
+=============Transc Information =============
+Print Time: 2016-03-28 22:54:31
+
+[22:54:31]DeviceIoControl NULL 

@@ -1,0 +1,7 @@
+Capacity    Row length    Column length    Bank num    IO(buswidth)        
+256MB           14             10              8           16              
+128MB           13             10              8           16              
+64MB            13             10              4           16              
+32MB            13             9               4           16              
+16MB            12             9               4           16              
+8MB             12             8               4           16              

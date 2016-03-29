@@ -1,0 +1,60 @@
+
+[Version]
+Signature=$CHICAGO$
+Class=Ports
+ClassGUID={4d36e978-e325-11ce-bfc1-08002be10318}
+Provider=%String0%
+DriverVer=22/07/2002,5.0.2195.4858
+
+; Port Class Install
+[ClassInstall] 
+AddReg=USBClassInstall 
+
+[USBClassInstall]
+HKR,,,,%Enumerator%
+HKR,,Icon,,"-23"
+HKR,,Installer32,,"MsPorts.Dll,PortsClassInstaller"
+
+[Manufacturer]
+%String0%=Anglia
+
+[ControlFlags] 
+ExcludeFromSelect=USB\VID_0483&PID_3401
+
+[Anglia]
+%String1%=CDCUSB, USB\VID_0483&PID_3401
+
+; Win 2000
+[CDCUSB.NT]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection
+;CopyFiles=CDCUSB.CopyFiles
+AddReg=CDCUSB.AddReg
+
+[CDCUSB.CopyFiles]
+usbser.sys,,,0x20
+
+[CDCUSB.AddReg]
+HKR,,DevLoader,0,*ntkern
+HKR,,NTMPDriver,,"usbser.sys"
+
+[CDCUSB.NT.HW]
+AddReg=CDCUSBAddReg
+
+[CDCUSB.NT.Services]
+AddService=usbser, 0x00000002, Service_Inst
+
+[Service_Inst]
+DisplayName=%USBFilterString%
+ServiceType= 1
+StartType = 3
+ErrorControl = 0
+ServiceBinary = %12%\usbser.sys
+
+[CDCUSBAddReg]
+[Strings]
+String0="Anglia"
+String1="Anglia USB Serial Emulator"
+Enumerator = "USB Serial Emulator"
+%USBFilterString% = "USB Serial Service"
+

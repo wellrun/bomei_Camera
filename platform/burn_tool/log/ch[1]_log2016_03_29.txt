@@ -1,0 +1,151 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 21:11:53
+
+ss g_udisk_burnnum: 0
+[21:11:53]work number = 1
+[21:11:53]burn_mode = 1, eMedium = 1
+[21:11:53]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[21:12:16]end work number = 0
+[21:12:16]++Burn success++
+[21:12:16]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 21:19:56
+
+ss g_udisk_burnnum: 0
+[21:19:56]work number = 1
+[21:19:56]burn_mode = 1, eMedium = 1
+[21:19:56]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[21:20:18]end work number = 0
+[21:20:18]++Burn success++
+[21:20:18]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 21:24:42
+
+ss g_udisk_burnnum: 0
+[21:24:42]work number = 1
+[21:24:42]burn_mode = 1, eMedium = 1
+[21:24:42]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[21:25:04]end work number = 0
+[21:25:04]++Burn success++
+[21:25:04]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 21:37:17
+
+ss g_udisk_burnnum: 0
+[21:37:17]work number = 1
+[21:37:17]burn_mode = 1, eMedium = 1
+[21:37:17]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[21:37:39]end work number = 0
+[21:37:39]++Burn success++
+[21:37:39]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 21:40:59
+
+ss g_udisk_burnnum: 0
+[21:40:59]work number = 1
+[21:40:59]burn_mode = 1, eMedium = 1
+[21:40:59]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[21:41:21]end work number = 0
+[21:41:21]++Burn success++
+[21:41:21]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 22:06:00
+
+ss g_udisk_burnnum: 0
+[22:06:00]work number = 1
+[22:06:00]burn_mode = 1, eMedium = 1
+[22:06:00]Burn_GetRegValue fail
+[22:06:00]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 22:06:05
+
+ss g_udisk_burnnum: 0
+[22:06:05]work number = 1
+[22:06:05]burn_mode = 1, eMedium = 1
+[22:06:05]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:06:28]end work number = 0
+[22:06:28]++Burn success++
+[22:06:28]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 22:11:56
+
+ss g_udisk_burnnum: 0
+[22:11:56]work number = 1
+[22:11:56]burn_mode = 1, eMedium = 1
+[22:11:56]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:12:18]end work number = 0
+[22:12:18]++Burn success++
+[22:12:18]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 22:14:17
+
+ss g_udisk_burnnum: 0
+[22:14:17]work number = 1
+[22:14:17]burn_mode = 1, eMedium = 1
+[22:14:17]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:14:39]end work number = 0
+[22:14:39]++Burn success++
+[22:14:39]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 22:24:06
+
+ss g_udisk_burnnum: 0
+[22:24:06]work number = 1
+[22:24:06]burn_mode = 1, eMedium = 1
+[22:24:06]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:24:28]end work number = 0
+[22:24:28]++Burn success++
+[22:24:28]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2016-3-29 22:29:16
+
+ss g_udisk_burnnum: 0
+[22:29:16]work number = 1
+[22:29:16]burn_mode = 1, eMedium = 1
+[22:29:16]++Start download producer++
+producer path: boot\producer_37xx.bin, addr=30000000
+[22:29:38]end work number = 0
+[22:29:38]++Burn success++
+[22:29:38]close file
+
+
+

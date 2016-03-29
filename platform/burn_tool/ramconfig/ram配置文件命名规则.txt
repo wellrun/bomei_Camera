@@ -1,0 +1,7 @@
+AK芯片型号_Memory类型_厂商名字_内存型号_内存大小_带宽_（属性）
+
+如：
+
+AK9805_DDR2_ZENTAL_A3R12E4JFF_64MB_32位.txt
+
+AK9805_DDR2_ZENTAL_A3R12E4JFF_64MB_32位_ODT关闭.txt

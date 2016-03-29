@@ -1,0 +1,37 @@
+
+LR_1 0x30000000
+{
+    ER_RO +0 
+    {
+        boot*.o (BOOT, +FIRST)    
+        mmulib*.o (MMULIB)  
+        * (+RO)
+    }
+    
+    ER_RW +0 
+    {
+        * (+RW)
+    }
+    
+    init +0x0
+    {
+        *.o (__initcall_)
+    }
+
+    inner_backup +0x0
+    {
+        *.o (__inner_backup_)
+    }
+		
+    ER_ZI +0 
+    {   
+        * (+ZI)
+    }  
+    
+    inner 0x48000000
+    {
+        *.o (__inner_)
+    }    
+
+}
+

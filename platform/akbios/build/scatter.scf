@@ -1,0 +1,26 @@
+
+LR_1 0x30500000
+{
+    ER_RO +0 
+    {
+        boot*.o (BOOT, +FIRST)    
+        mmulib*.o (MMULIB)  
+        * (+RO)
+    }
+
+    ER_RW +0 
+    {
+        * (+RW)
+    }
+    
+    init +0x0
+    {
+        *.o (__initcall_)
+    }
+        
+    ER_ZI +0 
+    {   
+        * (+ZI)
+    }    
+}
+
