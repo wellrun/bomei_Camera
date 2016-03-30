@@ -51,6 +51,7 @@
 #include "hal_detector.h"
 #include "fwl_net.h"
 #include "Arch_sysctl.h"
+#include "hw_spi.h"
 
 #define PUB_TIMER_SECONDS       1
 
@@ -286,6 +287,10 @@ T_VOID VME_Main(T_VOID)
     
     /**Top bar init*/
     TopBar_Init();
+
+	
+	/*SPI×ÜÏßinit*/
+	Bomei_HwspiInit();
 
     /**Waiting box init*/
     WaitBox_Init();
